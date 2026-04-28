@@ -1,4 +1,5 @@
 # 📈 E-commerce Financial Forecast Model (12-Month Projection)
+![Dashboard Preview](./Screenshot%202026-04-10%20032044.png)
 
 ## 🎯 Project Overview
 This is a professional 12-month financial projection model designed for e-commerce scaling. It provides deep insights into revenue trajectories, profitability, and customer acquisition costs.
