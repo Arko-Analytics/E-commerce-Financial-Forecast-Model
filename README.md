@@ -1,4 +1,5 @@
 # 📈 E-commerce Financial Forecast Model (12-Month Projection)
+
 ![Dashboard Preview](./Screenshot%202026-04-10%20032044.png)
 
 ## 🎯 Project Overview
